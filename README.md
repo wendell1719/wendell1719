@@ -3,7 +3,7 @@ Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub🐱‍🏍
 
 -🔭 Atualmente estudando Sistema de informação.
 -🐱‍👤 Estudando Automação,I/A com python...
-🤔 Preciso de ajuda com dicas de livros e boas práticas!
+😉 procuro amizade para conversar sobre tecnologias !
 
 
 
