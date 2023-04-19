@@ -5,7 +5,17 @@ Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub🐱‍🏍
 -🐱‍👤 Estudando Automação,I/A com python...
 😉 procuro amizade para conversar sobre tecnologias !
 
-
+<picture>
+<source 
+  img height = "180" src set="https://github-readme-stats.vercel.app/api?username=Wendell1719&show_icons=true&theme=Dracula"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?Wendell1719&show_icons=true"
+  media="(prefers-color-scheme:heavy), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=wendell1719&show_icons=true" />
+</picture>
 
 
 <hr>
