@@ -1,8 +1,8 @@
 Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub🐱‍🏍
 
 
--🔭 Atualmente estudando Sistema de informação.
--🐱‍👤 Estudando full stack com foco em Web...
+-🔭 Atualmente estudando Sistema de informação.<BR>
+-🐱‍👤 Estudando full stack com foco em Web...<BR>
 😉 procuro amizade para conversar sobre tecnologias !
 
 <picture>
