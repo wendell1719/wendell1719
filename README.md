@@ -1,4 +1,4 @@
-Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub🐱‍🏍
+Olá! eu sou o Wendell Gama Ribeiro, Bem vindo ao meu GitHub
 
 
 -🔭 Atualmente estudando Sistema de informação.<BR>
